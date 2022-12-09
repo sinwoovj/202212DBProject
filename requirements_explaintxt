@@ -13,3 +13,6 @@ six==1.16.0
 sqlparse==0.4.3
 tzdata==2022.5
 urllib3==1.26.12
+
+
+##pip freeze > requirements.txt // 모든 패키지 파일 -> pip install -r requirements.txt 시 모두 다운로드 ㄱㄴ
